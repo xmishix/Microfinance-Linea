@@ -53,10 +53,17 @@ Institutional Adoption: Backed by Consensys, Linea is trusted by major financial
 ### References
 
 [1] https://defiway.com/bridges/bridge-eth-linea-ethereum
+
 [2] https://www.dwf-labs.com/research/is-linea-the-next-layer-2-blockchain-to-watch
+
 [3] https://defiway.com/bridges/bridge-usdc-linea-ethereum
+
 [4] https://www.theblock.co/post/365570/linea-native-yield
-[5] https://linea.build/blog/introducing-native-yield-sustainable-defi-rewards-from-bridged-eth
+
+[5] https://linea.build/blog/introducing-native-yield-sustainable-defi-rewards-from-bridged-eth 
+
 [6] https://www.youtube.com/watch?v=-K1IoWPHobY
+
 [7] https://defiway.com/bridges/bridge-eth-ethereum-linea
+
 [8] https://linea.build/blog/linea-is-ethereum
