@@ -31,6 +31,108 @@ We propose a **DeFi-based microfinance platform on Linea** that:
 
 ---
 
+## Milestones
+
+📅 **Week 8 — Research Foundations & Literature Review**
+
+Goal: Build theoretical and contextual understanding.
+
+Milestones:
+
+* Research existing microfinance systems (traditional & digital).
+* Identify challenges (trust, costs, access, transparency).
+* Study DeFi and blockchain use cases for lending (Aave, Compound, Goldfinch).
+* Collect academic sources (Google Scholar, IEEE, arXiv).
+* Begin Literature Review section draft (2–3 pages).
+
+**Deliverable:** Annotated bibliography + partial Literature Review draft.
+
+
+📅 **Week 9 — Linea and Technical Feasibility Study**
+
+Goal: Understand Linea zkEVM and justify its technical selection.
+
+Milestones:
+
+* Analyze Linea’s architecture: zkEVM, scalability, native yield, bridging.
+* Compare Linea vs Optimism, Arbitrum, Polygon zkEVM for DeFi suitability.
+* Research stablecoin support (USDC/DAI) on Linea testnet.
+* Draft Technical Background section.
+* Create architecture overview diagram (Linea + smart contracts + frontend).
+
+**Deliverable:** “Technical Approach” draft with diagram.
+
+📅 **Week 10 — System Design and Smart Contract Modeling**
+
+Goal: Define how the blockchain-based microfinance platform will work.
+
+Milestones:
+
+* Define actors: lender, borrower, admin, auditor.
+* Model loan lifecycle: request → approval → repayment → closure.
+* Write pseudocode or UML for key smart contracts:
+  * LoanPool
+  * BorrowerRegistry
+  * RepaymentSchedule
+* Start Solidity prototype (basic contract structure).
+
+**Deliverable:** System design document + initial contract skeletons.
+
+📅 **Week 11 — Prototype Implementation (Phase 1)**
+
+Goal: Build and test the core smart contract functionality.
+
+Milestones:
+
+* Implement LoanPool.sol and BorrowerRegistry.sol.
+* Test on Linea testnet with mock data.
+* Document transaction flow and costs.
+* Begin building frontend wireframe (React + Web3).
+
+**Deliverable:** Working prototype with smart contracts deployed to testnet.
+
+📅 Week 12 — Prototype Implementation (Phase 2) + Evaluation
+
+Goal: Integrate all components and evaluate feasibility.
+
+Milestones:
+
+* Finalize repayment logic, interest, and loan closure events.
+* Integrate frontend with contracts using Web3.js or ethers.js.
+* Analyze performance and costs (gas usage, scalability).
+* Collect screenshots and sample transactions for paper appendix.
+
+**Deliverable:** Integrated prototype + technical performance notes.
+
+📅 **Week 13 — Writing & Synthesis**
+
+Goal: Transition from prototype → publication draft.
+
+Milestones:
+
+* Write Methodology, System Design, and Implementation sections.
+* Add figures, flow diagrams, and code snippets.
+* Begin Results and Discussion section (analyze benefits, risks, and future work).
+* Peer review or mentor feedback round.
+
+**Deliverable:** Full research paper draft (≈80–90% complete).
+
+📅 **Week 14 — Final Paper & Presentation**
+
+Goal: Complete and polish the final deliverable.
+
+Milestones:
+
+* Finalize Abstract, Introduction, Conclusion.
+* Add citations in IEEE or APA format.
+* Proofread for coherence and flow.
+* Prepare PowerPoint or poster for presentation.
+* Submit final research paper (PDF).
+
+**Deliverable:** Final research paper + presentation slides.
+
+---
+
 ## 🔧 Technical Approach
 
 * **Blockchain**: Linea zkEVM (EVM-compatible, inherits Ethereum security).
