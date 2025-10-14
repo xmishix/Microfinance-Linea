@@ -43,6 +43,7 @@ _Milestones:_
 * Study DeFi and blockchain use cases for lending (Aave, Compound, Goldfinch).
 * Collect academic sources (Google Scholar, IEEE, arXiv).
 * Begin Literature Review section draft (2–3 pages).
+
 **Deliverable:** Annotated bibliography + partial Literature Review draft.
 
 
