@@ -33,7 +33,7 @@ We propose a **DeFi-based microfinance platform on Linea** that:
 
 ## Milestones
 
-📅 **Week 8 — Research Foundations & Literature Review**
+### 📅 **Week 8 — Research Foundations & Literature Review**
 
 _Goal:_ Build theoretical and contextual understanding.
 
@@ -46,7 +46,7 @@ _Milestones:_
 **Deliverable:** Annotated bibliography + partial Literature Review draft.
 
 
-📅 **Week 9 — Linea and Technical Feasibility Study**
+### 📅 **Week 9 — Linea and Technical Feasibility Study**
 
 _Goal:_ Understand Linea zkEVM and justify its technical selection.
 
@@ -56,10 +56,11 @@ _Milestones:_
 * Research stablecoin support (USDC/DAI) on Linea testnet.
 * Draft Technical Background section.
 * Create architecture overview diagram (Linea + smart contracts + frontend).
+
 **Deliverable:** “Technical Approach” draft with diagram.
 
 
-📅 **Week 10 — System Design and Smart Contract Modeling**
+### 📅 **Week 10 — System Design and Smart Contract Modeling**
 
 _Goal:_ Define how the blockchain-based microfinance platform will work.
 
@@ -71,10 +72,11 @@ _Milestones:_
   * BorrowerRegistry
   * RepaymentSchedule
 * Start Solidity prototype (basic contract structure).
+
 **Deliverable:** System design document + initial contract skeletons.
 
 
-📅 **Week 11 — Prototype Implementation (Phase 1)**
+### 📅 **Week 11 — Prototype Implementation (Phase 1)**
 
 _Goal:_ Build and test the core smart contract functionality.
 
@@ -83,10 +85,11 @@ _Milestones:_
 * Test on Linea testnet with mock data.
 * Document transaction flow and costs.
 * Begin building frontend wireframe (React + Web3).
+
 **Deliverable:** Working prototype with smart contracts deployed to testnet.
 
 
-📅 Week 12 — Prototype Implementation (Phase 2) + Evaluation
+### 📅 **Week 12 — Prototype Implementation (Phase 2) + Evaluation**
 
 _Goal:_ Integrate all components and evaluate feasibility.
 
@@ -95,10 +98,11 @@ _Milestones:_
 * Integrate frontend with contracts using Web3.js or ethers.js.
 * Analyze performance and costs (gas usage, scalability).
 * Collect screenshots and sample transactions for paper appendix.
+
 **Deliverable:** Integrated prototype + technical performance notes.
 
 
-📅 **Week 13 — Writing & Synthesis**
+### 📅 **Week 13 — Writing & Synthesis**
 
 _Goal:_ Transition from prototype → publication draft.
 
@@ -107,10 +111,11 @@ _Milestones:_
 * Add figures, flow diagrams, and code snippets.
 * Begin Results and Discussion section (analyze benefits, risks, and future work).
 * Peer review or mentor feedback round.
+
 **Deliverable:** Full research paper draft (≈80–90% complete).
 
 
-📅 **Week 14 — Final Paper & Presentation**
+### 📅 **Week 14 — Final Paper & Presentation**
 
 _Goal:_ Complete and polish the final deliverable.
 
@@ -120,6 +125,7 @@ _Milestones:_
 * Proofread for coherence and flow.
 * Prepare PowerPoint or poster for presentation.
 * Submit final research paper (PDF).
+
 **Deliverable:** Final research paper + presentation slides.
 
 
