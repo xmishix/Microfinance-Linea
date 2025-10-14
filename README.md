@@ -36,6 +36,7 @@ We propose a **DeFi-based microfinance platform on Linea** that:
 📅 **Week 8 — Research Foundations & Literature Review**
 
 _Goal:_ Build theoretical and contextual understanding.
+
 _Milestones:_
 * Research existing microfinance systems (traditional & digital).
 * Identify challenges (trust, costs, access, transparency).
@@ -48,6 +49,7 @@ _Milestones:_
 📅 **Week 9 — Linea and Technical Feasibility Study**
 
 _Goal:_ Understand Linea zkEVM and justify its technical selection.
+
 _Milestones:_
 * Analyze Linea’s architecture: zkEVM, scalability, native yield, bridging.
 * Compare Linea vs Optimism, Arbitrum, Polygon zkEVM for DeFi suitability.
@@ -60,6 +62,7 @@ _Milestones:_
 📅 **Week 10 — System Design and Smart Contract Modeling**
 
 _Goal:_ Define how the blockchain-based microfinance platform will work.
+
 _Milestones:_
 * Define actors: lender, borrower, admin, auditor.
 * Model loan lifecycle: request → approval → repayment → closure.
@@ -74,6 +77,7 @@ _Milestones:_
 📅 **Week 11 — Prototype Implementation (Phase 1)**
 
 _Goal:_ Build and test the core smart contract functionality.
+
 _Milestones:_
 * Implement LoanPool.sol and BorrowerRegistry.sol.
 * Test on Linea testnet with mock data.
@@ -85,6 +89,7 @@ _Milestones:_
 📅 Week 12 — Prototype Implementation (Phase 2) + Evaluation
 
 _Goal:_ Integrate all components and evaluate feasibility.
+
 _Milestones:_
 * Finalize repayment logic, interest, and loan closure events.
 * Integrate frontend with contracts using Web3.js or ethers.js.
@@ -96,6 +101,7 @@ _Milestones:_
 📅 **Week 13 — Writing & Synthesis**
 
 _Goal:_ Transition from prototype → publication draft.
+
 _Milestones:_
 * Write Methodology, System Design, and Implementation sections.
 * Add figures, flow diagrams, and code snippets.
@@ -107,6 +113,7 @@ _Milestones:_
 📅 **Week 14 — Final Paper & Presentation**
 
 _Goal:_ Complete and polish the final deliverable.
+
 _Milestones:_
 * Finalize Abstract, Introduction, Conclusion.
 * Add citations in IEEE or APA format.
