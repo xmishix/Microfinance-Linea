@@ -15,6 +15,12 @@ New fintech players—Tala, Branch, M-Pesa micro-credit, Jumo—have digitized l
 
 Key challenges repeatedly identified across the literature:
 
+| Challenge                 | Description                                                          | Source                     |
+| ------------------------- | -------------------------------------------------------------------- | -------------------------- |
+| High administrative cost  | Manual verification & small loan sizes make operations unsustainable | Coli et al. (2021)         |
+| Trust & transparency gaps | Borrowers/donors lack visibility into fund usage                     | Mukala (2024)              |
+| Limited access            | Informal-sector workers excluded from credit scoring                 | Adegbite (2024)            |
+| Slow approvals            | Paperwork and human intermediaries delay disbursement                | Kumarathunga et al. (2022) |
 
 
 These issues provide the foundation for testing blockchain-enabled transparency and automation.
