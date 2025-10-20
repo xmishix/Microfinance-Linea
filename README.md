@@ -46,6 +46,10 @@ _Milestones:_
 
 **Deliverable:** Annotated bibliography + partial Literature Review draft.
 
+## 📚 Research Progress
+- [Week 8 — Literature Review](research/Week8_LiteratureReview.md)
+
+
 
 ### 📅 **Week 9 — Linea and Technical Feasibility Study**
 
